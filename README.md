@@ -1,2 +1,0 @@
-# qzm-db
-Begin app
